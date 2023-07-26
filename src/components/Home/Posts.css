@@ -1,0 +1,28 @@
+.image5{
+    width: 100%;
+    margin:auto
+}
+.PostsBody{
+    width:75%;
+    margin:auto;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.Post{
+    margin-bottom:4rem ;
+    padding:2rem;
+    max-width:500px;
+    
+}
+.top{
+    border:0.1px solid white;
+    padding: 15px;
+}
+.postProfile{
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+}
+.Post{
+    margin:auto
+}

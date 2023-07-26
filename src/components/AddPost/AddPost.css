@@ -1,0 +1,9 @@
+.addPostFormBody{
+    width: 50%;
+    min-width: 400px;
+    margin: auto;
+    margin-top: 9rem;
+}
+.formLabelInAddPost{
+    color: black;
+}

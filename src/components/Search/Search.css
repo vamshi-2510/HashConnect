@@ -1,0 +1,27 @@
+.button2{
+    background-color: black;
+    border:none;
+
+}
+
+.label{
+    background-color: black;
+}
+.followButton{
+background-color: #82EEFD;
+width: 100%;
+padding-left: 1.5em;
+padding-right: 1.5em;
+border-radius: 7px;
+}
+.followButton2{
+background-color: #999c9c;
+width: 100%;
+padding-left: 1.5em;
+padding-right: 1.5em;
+border-radius: 7px;
+}
+.req{
+    border-bottom: 1px solid white;
+    padding-bottom:1em ;
+}

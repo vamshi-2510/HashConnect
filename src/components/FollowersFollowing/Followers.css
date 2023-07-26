@@ -1,0 +1,14 @@
+.b3{
+    width: 100%;
+    background-color: black;
+    color:white
+}
+.listElement{
+    color:white;
+    border:none;
+    text-align:center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.heading{
+    border-bottom: 0.0001px solid white;
+}

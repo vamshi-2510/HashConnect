@@ -1,0 +1,77 @@
+.image2{
+    display: block;
+    margin: auto;
+    width:90%;
+    height:50%;
+    max-width:5rem;
+    max-height:5rem;
+    border-radius: 50%;
+}
+.l4{
+    text-decoration: none;
+    color:white;
+}
+.l4:hover{
+    text-decoration: none;
+    color:white;
+}
+.image3{
+width:100%;
+}
+.editbutton{
+    background-color: rgb(202, 199, 199);
+    border: none;
+    padding: 2px;
+    width:100%;
+    border-radius: 7px;
+}
+
+.postInProfile{
+    max-width:250px;
+    max-height: 250px;
+}
+
+.postsBodyInProfile{
+    margin-top:1rem;
+    padding-top:1rem;
+    border-top: 0.001px solid white;
+}
+.i4{
+    background-color: black;
+    border:none;
+    color:white
+}
+.i4:hover{
+    background-color: black;
+    border:none
+}
+.offCanvasBody{
+    background-color: black;
+    color:white;
+}
+
+.closeButton{
+    background-color: white;
+    color:white;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    border-bottom: 0.0001px solid white;
+    margin-top:5px;
+}
+
+.items{
+    text-decoration: none;
+    color:white;
+   
+}
+.items:hover{
+    text-decoration: none;
+    color:white;
+}
+li{
+    margin-top:0.7rem;
+}
